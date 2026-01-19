@@ -1,0 +1,14 @@
+{
+  "appclips": {
+    "apps": ["74P8GQ7828.com.rebellapp.consumer.Clip"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [     
+      {
+        "appID": "74P8GQ7828.com.rebellapp.consumer",
+        "paths": ["app/*"]
+      }
+    ]
+  }
+}

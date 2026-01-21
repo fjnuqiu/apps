@@ -1,14 +1,17 @@
 {
-  "appclips": {
-    "apps": ["74P8GQ7828.com.rebellapp.consumer.Clip"]
-  },
   "applinks": {
-    "apps": [],
-    "details": [     
+    "details": [
       {
-        "appID": "74P8GQ7828.com.rebellapp.consumer",
-        "paths": ["app/*"]
+        "appIDs": ["74P8GQ7828.com.rebellapp.consumer"],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
     ]
+  },
+  "appclips": {
+    "apps": ["74P8GQ7828.com.rebellapp.consumer.Clip"]
   }
 }
